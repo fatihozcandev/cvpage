@@ -1,5 +1,3 @@
-import filmProject from "../assests/filmProject.png";
-
 export const languages = {
   en: {
     title: "Frontend Developer",
