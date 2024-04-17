@@ -8,7 +8,7 @@ import Profile from "./components/profile/Profile";
 import Projects from "./components/projects/Projects";
 import Footer from "./components/footer/Footer";
 import { DataContext } from "./context/DataContext";
-import { languages } from "./data/languages";
+import { languages } from "./data/data.js";
 
 function App() {
   const storedLang = localStorage.getItem("lang");

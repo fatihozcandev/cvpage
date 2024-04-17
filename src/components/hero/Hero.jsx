@@ -64,7 +64,7 @@ function Hero() {
       <div className="right-section">
         <img
           className={`hero-photo ${theme === "dark" ? "hero-photo-dark" : ""}`}
-          src="https://picsum.photos/200/300"
+          src="https://media.licdn.com/dms/image/C4D03AQFck_Sm-h5K8w/profile-displayphoto-shrink_200_200/0/1545487555200?e=2147483647&v=beta&t=A2rHoZvh4iakTUfNxBrcvOp4yn_e1EudpmjsMHoHcy4"
         />
       </div>
     </div>
