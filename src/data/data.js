@@ -30,7 +30,7 @@ export const languages = {
     },
     headerData: {
       logoText: "F.Ö.",
-      navigationLinks: ["Skills", "Projects", "Contact Me"],
+      navigationLinks: ["Skills", "Projects", "Contact"],
     },
     projectsData: [
       {
@@ -115,7 +115,7 @@ export const languages = {
     },
     headerData: {
       logoText: "F.Ö.",
-      navigationLinks: ["Yetenekler", "Projeler", "Bana ulaş"],
+      navigationLinks: ["Skills", "Projects", "Contact"],
     },
     projectsData: [
       {
