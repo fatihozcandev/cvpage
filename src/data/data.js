@@ -56,14 +56,14 @@ export const languages = {
       },
       {
         id: 3,
-        title: "Grid Widget",
-        imageUrl: "https://i.stack.imgur.com/OteU7.png",
-        description:
-          "It is an application that allows working on grids and can dynamically navigate within the grid.",
+        title: "Login Page",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4CzIZ-6KZfoGLNxdZtRCFUuU_uTwtAw8YNmgabCCI0A&s",
+        description: "A simple login page application",
         technologies: ["React", "Axios"],
         githubLink:
-          "https://github.com/fatihozcandev/WITs9sprintProject-gridWidget-reactApiPostman",
-        viewSiteLink: "#",
+          "https://github.com/fatihozcandev/WITS7-LOGIN-PAGE--CYPRESS-TEST",
+        viewSiteLink: "https://wits-7-login-page-cypress-test.vercel.app/",
       },
     ],
     skillsData: [
@@ -141,14 +141,14 @@ export const languages = {
       },
       {
         id: 3,
-        title: "Grid Widget Project",
-        imageUrl: "https://i.stack.imgur.com/OteU7.png",
-        description:
-          "Gridler üzerinde çalışmaya olanak sağlayan ve dinamik olarak grid içerisinde gezinebilen bir uygulamadır.",
+        title: "Login Sayfası",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4CzIZ-6KZfoGLNxdZtRCFUuU_uTwtAw8YNmgabCCI0A&s",
+        description: "Bir login page örneğidir.",
         technologies: ["React", "Axios"],
         githubLink:
-          "https://github.com/fatihozcandev/WITs9sprintProject-gridWidget-reactApiPostman",
-        viewSiteLink: "#",
+          "https://github.com/fatihozcandev/WITS7-LOGIN-PAGE--CYPRESS-TEST",
+        viewSiteLink: "https://wits-7-login-page-cypress-test.vercel.app/",
       },
     ],
     skillsData: [
