@@ -43,7 +43,7 @@ export const languages = {
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/fatihozcandev/WIT-s7-SPA-",
         viewSiteLink:
-          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app/siparis",
+          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app",
       },
       {
         id: 2,
@@ -129,7 +129,7 @@ export const languages = {
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/fatihozcandev/WIT-s7-SPA-",
         viewSiteLink:
-          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app/siparis",
+          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app",
       },
       {
         id: 2,
