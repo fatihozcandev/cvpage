@@ -42,7 +42,8 @@ export const languages = {
           "It is a Single Page Application designed to bring food to developers.",
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/fatihozcandev/WIT-s7-SPA-",
-        viewSiteLink: "https://wit-s7-spa.vercel.app/siparis",
+        viewSiteLink:
+          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app/siparis",
       },
       {
         id: 2,
@@ -127,7 +128,8 @@ export const languages = {
           "Yazılımcılara yiyecek getirmek için tasarlanmış bir Single Page Application'dır.",
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/fatihozcandev/WIT-s7-SPA-",
-        viewSiteLink: "https://wit-s7-spa.vercel.app/siparis",
+        viewSiteLink:
+          "https://wit-s7-ahqc8w26e-fatih-ozcans-projects.vercel.app/siparis",
       },
       {
         id: 2,
